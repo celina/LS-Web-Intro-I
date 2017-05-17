@@ -45,6 +45,7 @@ body {
 #center-bottom {
   width: 100%;
   height: 15%;
+  min-height: 75px;
   bottom: 0;
 }
 
