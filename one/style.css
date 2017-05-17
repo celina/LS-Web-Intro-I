@@ -1,6 +1,6 @@
 body {
-  margin: 0px;
-  padding: 0px;
+  padding: 0;
+  margin: 0;
 }
 
 .container  {
@@ -15,7 +15,7 @@ body {
 
 #top {
   width: 100%;
-  height: 20%;
+  height: 130px;
 }
 
 #bottom {
@@ -26,25 +26,20 @@ body {
 #left {
   float: left;
   left: 0;
-  width: 20%;
+  width: 150px;
   height: 100%;
 }
 
 #right {
   float: right;
   right: 0;
-  width: 20%;
+  width: 150px;
   height: 100%;
-}
-
-#center {
-  width: 100%;
-  height: 90%;
 }
 
 #center-top {
   width: 100%;
-  height: 100%;
+  height: 90%;
 }
 
 #center-bottom {
