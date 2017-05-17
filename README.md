@@ -1,11 +1,7 @@
-# Homework 1
+# Homework 1 - LambdaSchool
 
 
 ## Instructions
-
-You will need to have Google Chrome (or Mozilla Firefox but we'd recommend Chrome) dowloaded as well as an editor for your code.  
-
-If you don't already have a preferred editor then we would recommend either SublimeText3 or Atom.
 
 For this assignment you will be using HTML and CSS to replicate the images found in the three folders inside of this project.
 
@@ -15,15 +11,10 @@ You can open each HTML file in Chrome to view the work that you have done.  As y
 
 
 ---
-## LambdaSchool and LambdaUniversity
+## Completed Assignment
 
-LambdaUniversity is the CS degree of the future.  Over six months you will master CS fundamentals and learn full-stack software development.  This program is free up-front and you pay us back a portion of your salary if you earn over $50K after graduating.  Spots are limited.
+View one Codepen: https://codepen.io/celinap/pen/XRBoVQ
 
-Click here to apply:
-http://lambdauniversity.com
+View two Codepen:
 
-LambdaSchool also offers a part-time and full-time 3 month program in full-stack JavaScript development.  LambdaSchool's part-time program now offers a one year financing option.
-Class sizes are small to ensure that each student gets individual attention from our world class instructors to help them succeed.
-
-Click here to apply:
-https://lambdaschool.com/apply
+View three Codepen:
